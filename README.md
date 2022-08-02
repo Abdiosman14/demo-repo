@@ -9,3 +9,6 @@ lets see if this works
 
 some text
 
+# local development
+
+open index.html in your browser
